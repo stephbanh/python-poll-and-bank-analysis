@@ -126,7 +126,6 @@ with open(opath, 'w') as new:
     new.write("Greatest Decrease in Profits: " + str(greatest_decrease_mon) + " ($" + str(greatest_decrease_val) + ")\n" )
 
 
-# In[ ]:
 
 
 
